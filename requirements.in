@@ -1,0 +1,7 @@
+# Django
+django==4.2.6
+
+# Fast-API
+fastapi==0.103.2
+uvicorn==0.23.2
+
